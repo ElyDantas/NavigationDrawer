@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">NavigationDrawer</string>
+
+    <!-- Navigation Drawer Items -->
+    <string name="title_section0">Menu</string>
+    <string name="title_section1">Mouse</string>
+    <string name="title_section2">Notebook</string>
+    <string name="title_section3">MAC</string>
+
+
+    <!-- Strings in general -->
+    <string name="hello_world">Main Hello Word</string>
+    <string name="teste"> Primeira Activity</string>
+    <string name="teste2"> Segunda Activity</string>
+    <string name="teste3"> Terceira Activity</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Activity's names -->
+    <string name="title_activity_teste">Teste</string>
+    <string name="title_activity_teste2">Teste2</string>
+    <string name="title_activity_teste3">Teste3</string>
+
+    <!-- action_strings   -->
+    <string name="action_settings">Settings</string>
+</resources>
